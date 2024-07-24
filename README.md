@@ -19,11 +19,6 @@ This project is a Bode Plot Application built using C++ and Qt. It allows users 
 
 1. **Clone the Repository**:
 
-    ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
-    cd your-repository-name
-    ```
-
 2. **Install Dependencies**:
 
     Make sure you have the Qt framework and Eigen library installed on your system. You can download Eigen from [Eigen's official site](https://eigen.tuxfamily.org/dox/GettingStarted.html).
